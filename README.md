@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinayd2511
-- 👀 I’m interested in VHDL and Microcontrollers.
+
 
 - 📫 You can drop a message at dvinaykumar1125@gmail.com 
 
